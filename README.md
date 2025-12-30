@@ -34,8 +34,6 @@ Certified in Python, ITCT Computer Education
 - **Followers:** 0
 - **Following:** 1
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevPsycho-07&show_icons=true&theme=radical)
-
 ## Latest Blog Posts
 
 Currently, I don't have any blog posts, but I plan to start sharing my insights and experiences in the tech world soon!
@@ -50,9 +48,3 @@ Currently, I don't have any blog posts, but I plan to start sharing my insights 
  |____/ \___| \_/ |_|   |___/\__, |\___|_| |_|\___/       \___//_/   
                              |___/                                   
 ```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevPsyCho-07/DevPsyCho-07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevPsyCho-07/DevPsyCho-07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevPsyCho-07/DevPsyCho-07/output/pacman-contribution-graph.svg">
-</picture>
